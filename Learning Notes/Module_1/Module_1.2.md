@@ -1,0 +1,1 @@
+Practical by installing all images
