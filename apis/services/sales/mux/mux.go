@@ -3,8 +3,6 @@
 package mux
 
 import (
-	"context"
-	"net/http"
 	"os"
 
 	"github.com/sralapati/service/apis/services/sales/route/sys/checkapi"
